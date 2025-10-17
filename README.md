@@ -10,7 +10,7 @@ A modern, responsive blog application built with **Next.js 14+ App Router**, **R
 - **Frontend:** React 18, JavaScript (ES6+)
 - **Styling:** Tailwind CSS
 - **Data Source:** JSONPlaceholder API
-- **Deployment:** Vercel (recommended)
+
 
 ---
 
